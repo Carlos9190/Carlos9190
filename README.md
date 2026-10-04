@@ -1,9 +1,8 @@
-<!-- markdownlint-disable MD013 -->
 # Carlos Eduardo Ibarra Manzano
 
 Fullstack Developer and QA focused on building scalable web platforms, real-time dashboards and serverless backends, with a strong eye for product quality.
 
-[Portfolio](https://www.carlos-fullstack.com) · [LinkedIn](https://linkedin.com/in/carlos-9199-ibarra) · [Email](mailto:carlosibarra999@outlook.com)
+[Portfolio](https://www.carlos-fullstack.com) · [LinkedIn](https://www.linkedin.com/in/cibarra9199)
 
 ## Experience
 
